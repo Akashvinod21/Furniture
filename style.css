@@ -44,7 +44,7 @@ body{
 }
 
 .main{
-    background-image: url('./images/Furnibg.jpg');
+    background-image: url('https://img.freepik.com/free-photo/blue-armchair-against-blue-wall-living-room-interior-elegant-interior-design-with-copy-space-ai-generative_123827-23718.jpg');
     height: 120vh;
     background-size: cover;
     background-attachment: fixed;
@@ -85,7 +85,7 @@ body{
 
 .work{
     /* margin-top: 10%; */
-    background-image: url('./images/whitelines.png');
+    background-image: url('https://media.istockphoto.com/id/907892712/photo/white-brick-wall-background.webp?b=1&s=170667a&w=0&k=20&c=fnBMy_T27_Bq39jkYxg9CSP4rVuExIP2U-JN1RMcM9s=');
     width: 100%;
     height: 100%;
     background-attachment: fixed;
